@@ -12,10 +12,8 @@ html, body{
 
 .MyName{
     color: white;
-    padding: 10px;
-    display: inline-block;
-    text-decoration: none;
     text-align: right;
+    padding: 20px;
     font-family: 'Kanit', sans-serif;
     font-size: large;
 }
