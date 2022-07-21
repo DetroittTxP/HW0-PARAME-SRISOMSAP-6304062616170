@@ -1,5 +1,5 @@
 html, body{
-    background-color: rgb(214, 205, 194);
+    background-color: rgb(199, 198, 197);
     margin: 0;
     padding: 0;
 }
@@ -12,10 +12,14 @@ html, body{
 
 .MyName{
     color: white;
-    padding: 15px;
+    padding: 10px;
     display: inline-block;
     text-decoration: none;
+    text-align: right;
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
 }
+
 .Main{
     max-width: 600px;
     margin:auto
@@ -33,15 +37,20 @@ html, body{
     width: 100%;
 }
 
-.Name1{
+.huakor{
     text-align: center;
+    font-family: 'Kanit', sans-serif;
+    color: black;
+}
+
+.Name1{
     font-family: 'Kanit', sans-serif;
     color: black;
     
 }
 
 .Bottom{
-    color: white;
+    color: black;
     text-align: center;
     padding: 20px;
     font-family: 'Kanit', sans-serif;
