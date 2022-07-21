@@ -20,6 +20,11 @@ html, body{
 
 }
 
+.test{
+    max-width: 600px;
+    margin-right: 5cm;
+}
+
 .box{
    background-color: white;
   padding: 20px;
