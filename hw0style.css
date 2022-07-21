@@ -1,0 +1,22 @@
+.first {
+    background-color: aqua;
+    padding: 10px;
+    font-size: large;
+    margin-bottom: 20px;
+}
+
+.Conten1{
+    background-color: palegreen;
+    padding: 10px;
+    font-size: medium;
+}
+
+.title{
+    font-size: 30px;
+    color: brown;
+}
+
+.Conten1{
+    font-size: 20px;
+
+}
