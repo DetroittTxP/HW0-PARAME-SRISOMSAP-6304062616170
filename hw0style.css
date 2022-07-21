@@ -1,22 +1,30 @@
-.first {
-    background-color: aqua;
-    padding: 10px;
-    font-size: large;
-    margin-bottom: 20px;
+html, body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
 }
 
-.Conten1{
-    background-color: palegreen;
-    padding: 10px;
-    font-size: medium;
+.Title{
+    background-color: rgb(58, 55, 55);
 }
 
-.title{
-    font-size: 30px;
-    color: brown;
+.MyName{
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.Main{
+    max-width: 600px;
+    margin:auto
+
 }
 
-.Conten1{
-    font-size: 20px;
-
+.box{
+   background-color: white;
+  padding: 20px;
+  margin: 10px;
+}
+.image{
+    width: 100%;
 }
