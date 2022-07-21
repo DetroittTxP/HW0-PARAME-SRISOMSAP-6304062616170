@@ -8,11 +8,16 @@ html, body{
     background-color: rgb(58, 55, 55);
 }
 
+.Name1{
+    text-align: center;
+}
+
 .MyName{
     color: white;
     padding: 15px;
     display: inline-block;
     text-decoration: none;
+    text-align: right;
 }
 .Main{
     max-width: 600px;
@@ -32,4 +37,11 @@ html, body{
 }
 .image{
     width: 100%;
+}
+
+.Bottom{
+    color: white;
+    background-color: rgb(58, 55, 55);
+    text-align: center;
+    padding: 15px;
 }
