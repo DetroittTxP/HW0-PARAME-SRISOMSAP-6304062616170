@@ -17,10 +17,16 @@ html, body{
     font-family: 'Kanit', sans-serif;
     font-size: large;
 }
+.MyName2{
+    color: white;
+    text-align: left;
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+}
 
 .Main{
-    max-width: 600px;
-    margin:auto
+    max-width: 700px;
+    margin: auto;
 
 }
 
