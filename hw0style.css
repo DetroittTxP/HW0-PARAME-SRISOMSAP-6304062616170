@@ -6,6 +6,7 @@ html, body{
 
 .Title{
     background-color: rgb(58, 55, 55);
+    
 }
 
 
@@ -16,6 +17,7 @@ html, body{
     padding: 20px;
     font-family: 'Kanit', sans-serif;
     font-size: large;
+    border: 1px rgb(173, 173, 173);
 }
 .MyName2{
     color: white;
