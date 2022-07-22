@@ -8,6 +8,12 @@ html, body{
     background-color: rgb(58, 55, 55);
 }
 
+.MyName0{
+    color: white;
+    text-align: left;
+    font-family: 'Kanit', sans-serif;
+    font-size: large;
+}
 .MyName{
     color: white;
     text-align: right;
