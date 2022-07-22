@@ -52,16 +52,13 @@ html, body{
 }
 
 .Bottom{
-    color: black;
+    color: rgb(173, 173, 173);
+    background-color: rgb(58, 55, 55);
     text-align: center;
-    padding: 20px;
     font-family: 'Kanit', sans-serif;
     font-size: large;
+    padding: 10px;
     
-}
-
-.BottomLast{
-    color: black;
-    font-size: x-large;
+   
 }
 
