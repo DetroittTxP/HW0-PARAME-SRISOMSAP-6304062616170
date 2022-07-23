@@ -16,8 +16,8 @@ html, body{
 }
 .MyName{
     color: white;
-    text-align: right;
-    padding: 20px;
+    text-align: center;
+    padding: 40px;
     font-family: 'Kanit', sans-serif;
     font-size: large;
 }
@@ -34,11 +34,18 @@ html, body{
 
 }
 
+
 .box{
    background-color: white;
   padding: 20px;
   margin: 20px;
 }
+
+
+ 
+
+
+
 .image{
     width: 100%;
 }
@@ -57,6 +64,12 @@ html, body{
     font-family: 'Kanit', sans-serif;
     color: black;
     
+}
+
+.Name2{
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    color: black;
 }
 
 .Bottom{
