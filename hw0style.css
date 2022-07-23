@@ -36,7 +36,7 @@ html, body{
 
 
 .box{
-   background-color: white;
+   background-color: rgb(119, 90, 90);
   padding: 20px;
   margin: 20px;
 }
@@ -53,7 +53,7 @@ html, body{
 .huakor{
     text-align: center;
     font-family: 'Kanit', sans-serif;
-    color: black;
+    color: white;
 }
 
 .Head1{
@@ -62,14 +62,14 @@ html, body{
 
 .Name1{
     font-family: 'Kanit', sans-serif;
-    color: black;
+    color: white;
     
 }
 
 .Name2{
     font-family: 'Kanit', sans-serif;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 .Bottom{
